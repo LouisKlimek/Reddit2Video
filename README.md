@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/LouisKlimek/Reddit2Video">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Reddit2Video" width="80" height="80">
   </a>
 
   <h3 align="center">Reddit2Video</h3>
@@ -27,11 +27,8 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -63,29 +60,16 @@ To set up the Project locally you will need
 git clone https://github.com/LouisKlimek/Reddit2Video
 ```
 3. Install FFmpeg
-* How to : (https://ffmpeg.org/download.html#build-windows)
+https://ffmpeg.org/download.html#build-windows
 ```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+4. Get your Reddit API Key
+https://www.reddit.com/wiki/api
 
+5. Enter your API Key, Password etc. in "reddit.py"
 
+6. Enter your "videoLengthInMin" in "reddit.py"
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
+7. Now you can let "reddit.py" run and it will automatically create Videos
 
 
 <!-- CONTRIBUTING -->
@@ -104,24 +88,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
+Distributed under the Apache License 2.0. See `LICENSE` for more information
 
 
 
