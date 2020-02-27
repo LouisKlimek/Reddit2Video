@@ -38,7 +38,7 @@
 With this Project i tried to create an easy to use Tool which you use to generate AskReddit Text2Speech Videos
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+To make it all work the Project uses:
 * [Python](https://www.python.org/)
 * [FFmpeg](https://ffmpeg.org/)
 * [IBM Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech)
@@ -61,7 +61,7 @@ git clone https://github.com/LouisKlimek/Reddit2Video
 ```
 3. Install FFmpeg
 https://ffmpeg.org/download.html#build-windows
-```
+
 4. Get your Reddit API Key
 https://www.reddit.com/wiki/api
 
