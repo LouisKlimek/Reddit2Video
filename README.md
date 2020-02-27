@@ -43,8 +43,8 @@ To make it all work the Project uses:
 ## Getting Started
 
 To set up the Project locally you will need
-* Python
-* FFmpeg
+* Python 3.8.0
+* FFmpeg 4.2.2
 * A Reddit Account
 
 
