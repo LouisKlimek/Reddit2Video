@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-With this Project i tried to create an easy to use Tool which you use to generate AskReddit Text2Speech Videos
+With this Project i tried to create an easy to use Tool which you use to generate AskReddit Text2Speech Videos.
 
 ### Built With
 To make it all work the Project uses:
@@ -55,25 +55,25 @@ To set up the Project locally you will need
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo.
 ```sh
 git clone https://github.com/LouisKlimek/Reddit2Video
 ```
-3. Install FFmpeg
+3. Install FFmpeg.
 ```sh
 https://ffmpeg.org/download.html#build-windows
 ```
 
-4. Get your Reddit API Key
+4. Get your Reddit API Key.
 ```sh
 https://www.reddit.com/wiki/api
 ```
 
-5. Enter your API Key, Password etc. in "reddit.py"
+5. Enter your API Key, Password etc. in "reddit.py".
 
-6. Enter your "videoLengthInMin" in "reddit.py"
+6. Enter your "videoLengthInMin" in "reddit.py".
 
-7. Now you can let "reddit.py" run and it will automatically create Videos
+7. Now you can let "reddit.py" run and it will automatically create Videos.
 
 
 <!-- CONTRIBUTING -->
@@ -92,22 +92,22 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the Apache License 2.0. See `LICENSE` for more information
+Distributed under the Apache License 2.0. See `LICENSE` for more information.
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/LouisKlimek/Reddit2Video/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/LouisKlimek/Reddit2Video/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/LouisKlimek/Reddit2Video/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/LouisKlimek/Reddit2Video/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/LouisKlimek/Reddit2Video/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
