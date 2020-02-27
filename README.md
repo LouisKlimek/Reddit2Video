@@ -61,11 +61,13 @@ git clone https://github.com/LouisKlimek/Reddit2Video
 ```
 3. Install FFmpeg
 ```sh
-https://ffmpeg.org/download.html#build-windows```
+https://ffmpeg.org/download.html#build-windows
+```
 
 4. Get your Reddit API Key
 ```sh
-https://www.reddit.com/wiki/api```
+https://www.reddit.com/wiki/api
+```
 
 5. Enter your API Key, Password etc. in "reddit.py"
 
