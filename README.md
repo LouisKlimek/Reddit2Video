@@ -59,10 +59,10 @@ To set up the Project locally you will need
 ```sh
 git clone https://github.com/LouisKlimek/Reddit2Video
 ```
-3. Install FFmpeg
+3. Install FFmpeg<br>
 https://ffmpeg.org/download.html#build-windows
 
-4. Get your Reddit API Key
+4. Get your Reddit API Key<br>
 https://www.reddit.com/wiki/api
 
 5. Enter your API Key, Password etc. in "reddit.py"
