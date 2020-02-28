@@ -2,13 +2,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/LouisKlimek/Reddit2Video">
-    <img src="images/logo.png" alt="Reddit2Video" width="80" height="80">
+    <img src="logo.png" alt="Reddit2Video" width="80" height="80">
   </a>
 
   <h3 align="center">Reddit2Video</h3>
 
   <p align="center">
-    With Reddit2Video you can create AskReddit Text2Speech Videos just by specifying your wished Video Length.
+    With Reddit2Video, you can create AskReddit Text2Speech Videos by specifying your desired length of video.
     <br />
   </p>
 </p>
@@ -30,13 +30,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-With this Project i tried to create an easy to use Tool which you use to generate AskReddit Text2Speech Videos.
+With this project, I tried to create an easy-to-use tool that you can use to generate AskReddit Text2Speech Videos. 
 
 ### Built With
 To make it all work the Project uses:
 * [Python](https://www.python.org/)
 * [FFmpeg](https://ffmpeg.org/)
 * [IBM Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech)
+* [Unsplash](https://unsplash.com/developers)
 
 
 <!-- GETTING STARTED -->
@@ -46,7 +47,7 @@ To set up the Project locally you will need
 * Python 3.8.0
 * FFmpeg 4.2.2
 * A Reddit Account
-
+* A Unsplash Account
 
 ### Installation
 
@@ -68,7 +69,9 @@ https://www.reddit.com/wiki/api
 
 6. Enter your "videoLengthInMin" in "reddit.py".
 
-7. Now you can let "reddit.py" run and it will automatically create Videos.
+7. Enter your Unsplash API Key in "thumbnail.py" by replacing "CLIENTID".
+
+8. Now you can let "reddit.py" run and it will automatically create Videos.
 
 
 <!-- CONTRIBUTING -->
