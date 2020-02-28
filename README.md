@@ -8,7 +8,7 @@
   <h3 align="center">Reddit2Video</h3>
 
   <p align="center">
-    With Reddit2Video, you can create AskReddit Text2Speech Videos by specifying your desired length of video.
+    With Reddit2Video, you can generate AskReddit Text2Speech Videos by specifying your desired length of video.
     <br />
   </p>
 </p>
